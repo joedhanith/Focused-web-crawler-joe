@@ -1,2 +1,2 @@
-# Focused-web-crawler-joe
-Focused web crawler
+# semantic similarity vector space model
+Semantic Similarity Vector Space Model
